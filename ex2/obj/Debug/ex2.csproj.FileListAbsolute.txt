@@ -1,0 +1,53 @@
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\EmployesPage.g.cs
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2_Content.g.cs
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2_MarkupCompile.cache
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2_MarkupCompile.lref
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\На четверг\ex2\ex2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\EmployesPage.baml
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.g.resources
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.Properties.Resources.resources
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.csproj.CopyComplete
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\ex2.pdb
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\CrudEmp.g.cs
+C:\Users\User\Desktop\На четверг\ex2\ex2\obj\Debug\CrudEmp.baml
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\EntityFramework.dll
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\EntityFramework.xml
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mulke\Desktop\ex2\ex2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.csproj.AssemblyReference.cache
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\CrudEmp.g.cs
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\EmployesPage.g.cs
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\MainWindow.g.cs
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\App.g.cs
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2_Content.g.cs
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2_MarkupCompile.cache
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2_MarkupCompile.lref
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\CrudEmp.baml
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\EmployesPage.baml
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\MainWindow.baml
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.g.resources
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.Properties.Resources.resources
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.csproj.CopyComplete
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\mulke\Desktop\ex2\ex2\obj\Debug\ex2.pdb

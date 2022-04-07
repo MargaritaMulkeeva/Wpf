@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a0d6ec6f82754b4b812ef3e77700e47f" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_ExamModel.Control_Employes" Width="1.5" PointX="7.5" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.Control_Tasks" Width="1.5" PointX="10.5" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.Employees" Width="1.5" PointX="5.25" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.Grades" Width="1.5" PointX="0.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.Positions" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_ExamModel.Tasks" Width="1.5" PointX="8.25" PointY="7.375" IsExpanded="true" />
+        <AssociationConnector Association="DB_ExamModel.FK_Control_Employes_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_ExamModel.FK_Control_Employes_Employees1" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_ExamModel.FK_Control_Tasks_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_ExamModel.FK_Control_Tasks_Tasks" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_ExamModel.FK_Employees_Positions" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_ExamModel.FK_Positions_Grades" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
